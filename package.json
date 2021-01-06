@@ -34,11 +34,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/likr-lecture/react-tutorial2-client.git"
+    "url": "git+https://github.com/marumaru-a-w/netlify.git"
   },
   "bugs": {
-    "url": "https://github.com/likr-lecture/react-tutorial2-client/issues"
+    "url": "https://github.com/marumaru-a-w/netlify/issues"
   },
-  "homepage": "https://github.com/likr-lecture/react-tutorial2-client#readme",
+  "homepage": "https://github.com/marumaru-a-w/netlify#readme",
   "description": ""
 }
